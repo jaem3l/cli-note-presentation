@@ -1,0 +1,21 @@
+{
+    "name": "jaem3l/cli-note-presentation",
+    "description": "Prototype for your CLI note presentation",
+    "authors": [
+        {
+            "name": "Christopher Hertel",
+            "email": "mail@christopher-hertel.de"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.4",
+        "jaem3l/cli-note": "^0.1",
+        "symfony/finder": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Slides\\": "slides/"
+        }
+    }
+}

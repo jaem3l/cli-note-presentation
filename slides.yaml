@@ -1,0 +1,9 @@
+imports:
+    - resource: sections/*.yaml
+
+parameters:
+    # cli note configuration
+    #cli_note.list_slide.title_font: '%base_path%/fonts/Doom.flf'
+    #cli_note.list_slide.bulletpoint_font: '%base_path%/fonts/Stick Letters.flf'
+    #cli_note.title_slide.title_font: '%base_path%/fonts/Colossal.flf'
+    #cli_note.title_slide.subtitle_font: '%base_path%/fonts/Stick Letters.flf'
